@@ -1,4 +1,8 @@
 This is File1 
 Learning Git Hub
+<<<<<<< HEAD
 What's up people
 Hello Hii
+=======
+What's up people
+>>>>>>> 4cd3979ad3e39c0efbaccd25c325b84b310d5d35
